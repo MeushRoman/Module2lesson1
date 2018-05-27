@@ -126,8 +126,6 @@ void main()
 				printf("true\n");
 			}
 			else printf("false\n");
-
-
 		}
 		else if (n == 9) {
 			int a = 0, b = 0;
