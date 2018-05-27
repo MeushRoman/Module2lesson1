@@ -121,7 +121,6 @@ void main()
 			printf("Введите число В = ");
 			scanf("%d", &b);
 
-
 			if (a % 2 == 1 && b % 2 == 1) {
 				printf("true\n");
 			}
