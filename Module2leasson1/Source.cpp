@@ -237,7 +237,6 @@ void main()
 			printf("¬ведите число C = ");
 			scanf("%d", &c);
 
-
 			if ((a >= 0 && b >= 0 && c<0) || (a >= 0 && b < 0 && c >= 0) || (a < 0 && b >= 0 && c >= 0)) {
 				printf("true\n");
 			}
